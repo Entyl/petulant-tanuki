@@ -1,4 +1,4 @@
-# File-System
+# File System
 This simple two-level directory file system with a block size of 512 bytes was built using FUSE as a final project.  
 My file system would mount at a directory and then faux as root while accessing files inside of it.  
 Before writing this project I was indifferent to C.  
